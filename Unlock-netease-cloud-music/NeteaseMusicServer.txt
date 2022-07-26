@@ -1,4 +1,4 @@
 http=azmb.kevinxiao.cf:70, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 1
 http=music.griouges.cn:39000, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 2
-shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 4
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 5
+shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 3
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 4
