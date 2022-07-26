@@ -1,7 +1,4 @@
-http=lolico.me:443, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 1
-http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 2
-http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 3
-http=101.132.79.113:23333, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 4
-http=119.176.253.89:9080, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 5
-shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 6
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 7
+http=azmb.kevinxiao.cf:70, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 1
+http=music.griouges.cn:39000, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 2
+shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 4
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 5
