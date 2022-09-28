@@ -1,4 +1,7 @@
-http=music.griouges.cn:39000, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 1
-http=azmb.kevinxiao.cf:70, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 2
-shadowsocks=1.117.152.161:1234, method=aes-256-gcm, password=623128396, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 3
-shadowsocks=101.132.192.212:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 4
+http=155.248.169.205:70, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 1
+http=os.tencentcdn.net:2500, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 2
+http=pc.tencentcdn.net:3500, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 3
+shadowsocks=118.31.23.173, method=aes-128-gcm, password=Anmuhi, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 4
+shadowsocks=116.62.110.149, method=aes-128-gcm, password=AnmuwyHello, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 6
+shadowsocks=101.132.192.212:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 6
+shadowsocks=101.132.192.212:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 7
